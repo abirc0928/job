@@ -5,9 +5,10 @@
    
      <img src="SS\1.JPG" alt="" style="width:1080px;"/>
 3. Cart
+   <img src="SS\2.JPG" alt="" style="width:500px;"/>
    a. On the Top Right will be shown my cart
    b. Click on "Proceed checkout" button it will be go on order review page
-   <img src="SS\2.JPG" alt="" style="width:1080px;"/>
+   
 5. Oder reviw
    a. Here user can see their order list
    b. If I click on remove item it will delete that product form order list also my curt
