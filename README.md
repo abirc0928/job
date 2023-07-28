@@ -29,4 +29,4 @@
    <img src="SS\5.JPG" alt="" style="width:1080px;"/>
    <img src="SS\6.JPG" alt="" style="width:1080px;"/>
 
-# Note: I try to host my project but here show only home page of my project
+# Note: I try to host my project but here show only home page of my project. In live we can do only add produect in my cart, oder functionality dose not work.
