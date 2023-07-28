@@ -4,6 +4,7 @@
    ## b. If I click on add item this will be add my cart
    
    <img src="SS\1.JPG" alt="" style="width:1080px;"/>
+   
 # 2. Cart
    
    ## a. On the Top Right will be shown my cart
