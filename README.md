@@ -1,7 +1,7 @@
-#1. Product list
+# 1. Product list
    
-   ##a. If I click on product name it show my product details
-   ##b. If I click on add item this will be add my cart
+   ## a. If I click on product name it show my product details
+   ## b. If I click on add item this will be add my cart
    
    <img src="SS\1.JPG" alt="" style="width:1080px;"/>
 #2. Cart
