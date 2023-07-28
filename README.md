@@ -1,19 +1,19 @@
-1. Product list
+#1. Product list
    
    a. If I click on product name it show my product details
    b. If I click on add item this will be add my cart
    
      <img src="SS\1.JPG" alt="" style="width:1080px;"/>
-3. Cart
+#2. Cart
    <img src="SS\2.JPG" alt="" style="width:500px;"/>
    a. On the Top Right will be shown my cart
    b. Click on "Proceed checkout" button it will be go on order review page
    
-5. Oder reviw
+#3. Oder reviw
    a. Here user can see their order list
    b. If I click on remove item it will delete that product form order list also my curt
-6. Customer list
+#4. Customer list
    a. Here we see the the custoer list. This data taken from "Json placeholder"
-7. Login
+#5. Login
    a. Here user can log in the system (Only view)
    b. If user don't register then he can alo register the systerm (only view)
