@@ -1,7 +1,7 @@
 1. Product list
    a. If I click on product name it show my product details
    b. If I click on add item this will be add my cart
-     <img src="SS\1.png" alt="" style="width:1080px;"/>
+     <img src="SS\1.JPG" alt="" style="width:1080px;"/>
 3. Cart
    a. On the Top Right will be shown my cart
    b. Click on "Proceed checkout" button it will be go on order review page
